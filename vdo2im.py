@@ -6,7 +6,7 @@ from pathlib import Path
 print(os.getcwd())
 
 # Open the video file
-video_path = 'C:/Users/hp/Downloads/20230803-V1.avi'
+video_path = 'path_to_video'
 vdo_name = video_path.split('/')[-1].split('.')[0]
 print(vdo_name)
 cap = cv2.VideoCapture(video_path)
