@@ -1,1 +1,1 @@
-# vdo2img-segmenter
+# Video-to-image segmenter
